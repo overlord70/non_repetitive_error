@@ -31,8 +31,12 @@ form{
         border-radius: 7px;
         border: 0;
         height: 45px;
-        color: white;
         background-color:  #0047FF;
+        a{
+            color: white;
+            text-decoration: 0;
+        }
+        
     }
 }
 a{
